@@ -1,0 +1,8 @@
+conventions in pytho---when to use uppercase---all class names should start with uppercase,anything start with uppercase will have a class
+
+Modules
+
+Python will pass object as first implicit argument to EVERY function thats part of the class
+
+map----->create a new list
+map(function,list)

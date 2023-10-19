@@ -1,0 +1,6 @@
+Classes allow us to group our data & functions in a way thats easy to reuse and also build upon if need to be
+
+Methods are nothing but a function associated with a class
+
+instance varaible--> unique variable containing different value/number
+class variable-->we can either define under class by giving class name.variable name or can def a function for same and this can be called/used in whole program.

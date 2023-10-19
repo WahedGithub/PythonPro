@@ -1,0 +1,27 @@
+print("Write a Python program to construct the following pattern, using a nested for loop.")
+
+n =6; # take input number as the amount of stars needed for pattern
+for i in range(n):
+	for j in range(i):
+		print (' *',end='')
+	print('')# this will add a star in last line
+
+	
+print("\n")
+for i in range(n,0,-1): #(5,0,-1 for printing in reverese)
+	for j in range(i):
+		print('* ', end="")
+	print('')# if we give it here then it will add in everyline
+
+	
+#print(help(dict))
+
+i=1
+while i <=6:
+	while j<=i:
+		print('* ',end="")
+		j+=1
+	i+=1
+	print('')
+
+	

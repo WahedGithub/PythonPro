@@ -1,0 +1,7 @@
+What is suite:
+
+largest and smallest numbers finding from given numbers, 
+square of the numbers, 
+multiple and divisible by giving two numbers
+
+

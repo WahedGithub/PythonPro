@@ -1,0 +1,20 @@
+ASCII values 0-->48, A-->65, a-->97
+to get the ASCII value use "ord(a)--> will get the output(97)
+
+***Diff between Array & List****
+in List we can have different elements(int, strin, float) and in array we have to have same type of elements
+for array we have to import array module and for list directly we can define.
+
+Set: in set it removes the duplicate values at the time of printing the output
+
+The only diff b/w list and set is list can have duplicate values where as set cannot have
+
+
+Vairaible
+1. Instance variable 
+2. Class Variable
+
+Methods
+1. Class Method--> for using class varaible class method is called
+2. Instance Method --> For using instance varailbe we use instance method
+3. Static Method--> if u have to do extra with the class go with the static method

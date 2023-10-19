@@ -1,0 +1,8 @@
+1. Syntax Error
+2. Runtime error 10/0= Zero division error
+3. Value error ten/10= Value error
+4. While opening file = file not found error
+Note :Runtime error also known as Exceptions
+Exception handling Concept applicable for Runtime Errors but not for Syntax error
+Objective of Exception Handling: is graceful/normal Termination of the application(i.e we should not block 
+our resources and we shld not miss anything)

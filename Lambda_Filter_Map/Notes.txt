@@ -1,0 +1,20 @@
+filter() function:
+We can use filter() to filter values from the given sequence based on some condition.
+
+filter(function, sequence)
+
+function argument is responsible to perform conditional check.
+
+MAP() function:
+For every element present in the given sequence, apply some function and generate new element with the required modification.
+
+map(function, sequence)
+
+function argument can be applied to each element of sequence and generate a new sequence.
+
+Lambda/Anonymous()function
+1. Nameless function
+2. Instant function(one time usage)
+
+lambda input_arguments: expression
+lambda n: n*n

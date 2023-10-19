@@ -1,0 +1,73 @@
+Interview Questions
+
+** Reserve/Keywords Words: 33 words
+
+** For freezing the object which is reffered to mjultiple objects immutability of data types is required in python
+
+** Ex: 1 crore voters from hyd have same city if one user changes name for all it will get change thats y its is 
+immutable.
+
+**Except complex all other data types can be Reused
+
+Python Idle have the capacity for int from 0-256 value above that it will give as false even both the objects are having the same value thats the limitation of idle.
+
+** List is mutable
+
+** Collection Related Data Types can be used by (List,tuple,set,dict,range,bytes,bytearray,frozenset)
+
+** In list duplicate objects are allowed, order is peserved(maintained), heterogenous(diff type of objects) are allowed, indexing and slicing is allowed, list is mutable,
+
+l = [10,'durga', 20,10,30]
+print(type(l))
+
+** single element/object tuple should end with ,
+t= (10,) without comma it will take it as int value
+
+** in Set: indexing will not support as it doesn't have ordering
+1. duplicates are not allowed 2. Order not required 3.Indexing/slicing not allowed 4. Heterogenous objects are allowed.
+** In set add is used instead of append to the add the value.
+
+s={}
+>>> print(type(s))
+<class 'dict'> ##it is coz dict is frequently used thats why
+** To create empty set give 
+s= set()
+print(type(s))
+
+Diff b/w list & set
+list--order is imp. 2.duplicates(ok). 3.[] | set--order is not imp. 2. Duplicates(NOK), 3.{}
+
+Bytes data type--is used very rarely-for images,videos etc., define a list and assign it as a byte.
+Byte is immutable, here values should be 0-255 only
+byte or bytearray
+byte is immutable and bytearray is mutable only difference
+
+Int,Float,complex,bool,str are fundamental data types
+List, Tuple, Dict, Set,Frozenset, range, byte & bytearray are extra datatypes.
+
+None Data type--none means nothing or no value associated 
+its like **Null in java**
+None is also and object coz in python everything is an object.
+None can be only one object even multiple objects are defined.
+
+In python print can pass any number of arguments**
+
+ESCAPE Character: Which have some special Functionality
+\n--> New line
+\t--> Horizontal tab
+\r-->Carriage return --->its like home(takes to starting) of the line
+\b-->Backspace-->deletes one character
+\f-->form feed-->
+\'-->Single quote--> to use single quote instead of getting error in between string or int
+\"-->Double quote-->to use double quote instead of getting error in between string or int
+\\-->Backslash-->
+
+COMMENTS:
+# This is single line comment
+#Line 1 , #line 2, #line 3 This is multi line comments
+'''line1
+	line2
+	line3''' this is called doc string
+	
+Constants In Python--> are not APPLICABLE here
+MAX_LENGTH=10-->if you dont want to change the value define in upper case

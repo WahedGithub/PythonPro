@@ -1,0 +1,25 @@
+Functions Benefits:
+
+1. Better modularity for applications
+2. Higher ability to reuse code.
+3. Function is a block of organized, reusable code used to perform a single and related action
+
+Recursion
+It means defining something in its own terms. 
+1. In Programing, it is: used to explain the concept of a function calling itself
+2. A way to repeat an action with different values.
+
+
+Type casting/ Coersion
+
+int() --> To convert other type to int() type
+float()
+complex()
+bool()
+str()
+
+Only to convert from string to int the base should be 10 others can be converted.
+
+Complex number cannot be converted in most of the cases
+
+string to float--string should contain only int value or float value with base-10

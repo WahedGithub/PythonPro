@@ -1,0 +1,9 @@
+class Computer:
+	
+	def __init__(self, name, rollno): ## init is used to call the arguments passed in it in other methods
+		self.name = name
+		self.rollno = rollno
+		
+
+s1= Student('Abdul' ,2)
+s2= Student('Wahed', 3)

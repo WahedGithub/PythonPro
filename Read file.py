@@ -1,0 +1,1 @@
+print(open('Queries_HCS.txt').read())

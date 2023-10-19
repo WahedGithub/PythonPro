@@ -1,0 +1,8 @@
+Vairaible
+1. Instance variable 
+2. Class Variable
+
+Methods
+1. Class Method--> for using class varaible class method is called
+2. Instance Method --> For using instance varailbe we use instance method
+3. Static Method--> if u have to do extra with the class go with the static method

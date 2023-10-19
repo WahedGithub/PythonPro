@@ -1,0 +1,32 @@
+Data stractures
+List- "A collection of objects" -object is a collection of "attributes"-nothing but a variable
+dir(listname)--
+pop remove
+a= 100, Variable->(type-int, current value-100,reference count-1)
+#Variable in python do not have types, rather objects have the type
+
+Tuple-
+
+Dict-  
+
+
+Modules as collection of funtions, - help('modules')-to find the installed modules
+Built in modules- most of the things no need to write code directly can reuse the code/modules
+Third party modules-
+openpyexl-used for automating excel
+
+end=" "# print and stay in the same line
+
+
+python -m pip install openpyxl
+
+Assignment
+version 1--->this need to be with single sheet
+1. How many seats are won by each party? 
+2. Who won with the highest margin ? 
+3. how many females candidates contested and how many won ? all 
+
+version 2--->this need to be with all(3) sheet
+1. How many seats are won by each party year- wise ?
+2. Who won with the highest margin year- wise ?
+3. how many females candidates contested and how many won year- wise ?
